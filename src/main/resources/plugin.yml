@@ -1,0 +1,7 @@
+name: Auth
+version: '${project.version}'
+main: me.overlight.auth.Auth
+api-version: 1.19
+authors: [ ItzOver ]
+description: Create auth on server
+website: http://www.daneshian.ir/
