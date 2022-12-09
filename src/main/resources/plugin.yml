@@ -5,3 +5,12 @@ api-version: 1.19
 authors: [ ItzOver ]
 description: Create auth on server
 website: http://www.daneshian.ir/
+commands:
+  login:
+    aliases: ["l"]
+    description: login player into server
+    usage: "/login {password}"
+  register:
+    aliases: ["r"]
+    description: register player to server
+    usage: "/register {password} {password}"

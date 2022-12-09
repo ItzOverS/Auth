@@ -1,0 +1,6 @@
+loginMSG: "&6Use /login {password}"
+registerMSG: "&6Use /register {password} {password}"
+alreadyLoggedIn: "&aYou already logged in..."
+registerDifferentPassword: "&cPasswords are different"
+successLogin: "&aSuccess logged in"
+failedLogin: "KICK:&cInvalid Password"
